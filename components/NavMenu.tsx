@@ -17,7 +17,7 @@ export default function NavMenu() {
                         </Link>
 
                         <Link
-                            href="/char-bot"
+                            href="/chatbot"
                             aria-label="Character Bot"
                             className="text-gray-700 hover:text-indigo-600 dark:text-gray-200 dark:hover:text-indigo-400 transition-colors"
                         >
